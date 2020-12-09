@@ -6,7 +6,7 @@
 
 .nav {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 .nav > p {
   margin-left: 10px;
