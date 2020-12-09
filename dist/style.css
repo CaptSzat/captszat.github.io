@@ -4,9 +4,18 @@
   border: 0;
 }
 
+.inner {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
 .nav {
+  height: 100px;
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 .nav > p {
   margin-left: 10px;
