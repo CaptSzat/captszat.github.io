@@ -6,6 +6,7 @@
 
 .inner {
   width: 100vw;
+  height: 90vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -35,5 +36,16 @@
 
 .nav > p {
   margin-left: 10px;
+}
+
+.links {
+  width: 100vw;
+  height: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 /*# sourceMappingURL=style.css.map */
